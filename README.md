@@ -1,0 +1,1 @@
+This is a Readme file created for the Climate Right GitHub Repository
