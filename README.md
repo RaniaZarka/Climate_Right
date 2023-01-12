@@ -1,1 +1,1 @@
-This is a Readme file created for the Climate Right GitHub Repository
+This is a note created for the Climate Right GitHub Repository
